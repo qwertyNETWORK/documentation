@@ -1,12 +1,13 @@
 ---
-title: Introductiona
+title: Introduction
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 
-### Chapter 1
+### Qwerty Network
 
-# Basics
+# An Introduction to QN
 
-Discover the **basic** principles
+
